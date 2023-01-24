@@ -14,7 +14,7 @@ Steo 3. Create a database with PHPMyadmin or any alternate way and import test_s
 - We have refer & integrated https://www.smarty.com/articles/using-usps-apis-in-php#example document for using the API for "Address Standardization".
 
 **Screenshot**
-Screenshot 1 : https://prnt.sc/ce8u5UGQTPyS
+Screenshot 1 : https://prnt.sc/ce8u5UGQTPyS <hr/>
 Screenshot 2 : https://prnt.sc/L6gNbG_CcA9Z
 Screenshot 3 : https://prnt.sc/4jsFh8tFF6uI
 Screenshot 4 : https://prnt.sc/8CZXPDgl3iuE
