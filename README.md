@@ -1,4 +1,4 @@
-** System Requirements **
+__ System Requirements __
 - PHP version 5.6 or newer is recommended.
 - Else you can setup WAMP or XAMP  
 
